@@ -1,0 +1,20 @@
+{
+  "name": "eat-da-burger-revised",
+  "version": "1.0.0",
+  "description": "",
+  "main": "burger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike0109/eat-da-burger-revised.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mike0109/eat-da-burger-revised/issues"
+  },
+  "homepage": "https://github.com/Mike0109/eat-da-burger-revised#readme"
+}
